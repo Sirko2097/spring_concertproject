@@ -1,0 +1,12 @@
+#
+#Fri May 17 19:08:39 EEST 2019
+com.concert.dao.impl.SongDAOImpl=org.springframework.stereotype.Component
+com.concert.controller.ConcertController=org.springframework.stereotype.Component
+com.concert.controller.PerformerController=org.springframework.stereotype.Component
+com.concert.controller.LoginController=org.springframework.stereotype.Component
+com.concert.dao.impl.ConcertDAOImpl=org.springframework.stereotype.Component
+com.concert.controller.SongController=org.springframework.stereotype.Component
+com.concert.config.SecurityConfig=org.springframework.stereotype.Component
+com.concert.config.AppConfig=org.springframework.stereotype.Component
+com.concert.dao.impl.PerformerDAOImpl=org.springframework.stereotype.Component
+com.concert.controller.AppController=org.springframework.stereotype.Component
